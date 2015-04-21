@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/stephane/Downloads/YouTubeAndroidPlayerApi-1.2.1/sample/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/stephane/Downloads/YouTubeAndroidPlayerApi-1.2.1/sample/build/intermediates/pre-dexed/debug/classes-2cedc2c20042b75696442b1c0faf86a6090364dd.jar" />
+    </item>
+    <item
+        jar="/Users/stephane/Downloads/YouTubeAndroidPlayerApi-1.2.1/sample/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/stephane/Downloads/YouTubeAndroidPlayerApi-1.2.1/sample/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-c0fd60444a5b769b70481af809ee83b6ad7cf15b.jar" />
+    </item>
+    <item
+        jar="/Users/stephane/Downloads/YouTubeAndroidPlayerApi-1.2.1/sample/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/stephane/Downloads/YouTubeAndroidPlayerApi-1.2.1/sample/build/intermediates/pre-dexed/debug/classes-8a1473383a438b5a51edcaac39cdcec66b078489.jar" />
+    </item>
+    <item
+        jar="/Users/stephane/Downloads/YouTubeAndroidPlayerApi-1.2.1/sample/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="78b8f6e37921559ed21c1fae1f30f9f713494db8">
+        <dex dex="/Users/stephane/Downloads/YouTubeAndroidPlayerApi-1.2.1/sample/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi-0e6594883d0735c4c6ef0eac0e61ab116cc54159.jar" />
+    </item>
+    <item
+        jar="/Users/stephane/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/stephane/Downloads/YouTubeAndroidPlayerApi-1.2.1/sample/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-f26c0d48cc3860a101a2c18649ba60d4e1db0486.jar" />
+    </item>
+
+</items>
